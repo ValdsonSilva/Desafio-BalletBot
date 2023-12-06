@@ -301,6 +301,7 @@ body {
 
     .conteudo-principal-texto > p {
         font-size: 18px;
+        text-align: center;
     }
 
     .botao-conteudo-principal {
